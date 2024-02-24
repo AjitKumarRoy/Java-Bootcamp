@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Class.iml" filepath="$PROJECT_DIR$/.idea/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditionals If Else/Conditionals If Else.iml" filepath="$PROJECT_DIR$/Conditionals If Else/Conditionals If Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop/loop.iml" filepath="$PROJECT_DIR$/loop/loop.iml" />
     </modules>
   </component>
 </project>
